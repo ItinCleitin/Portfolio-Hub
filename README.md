@@ -8,9 +8,9 @@ O objetivo principal deste repositório é centralizar meus projetos acadêmicos
 
 ## 👨‍💻 Sobre Mim
 
-* **Nome:** [Seu Nome Completo]
+* **Nome:** Ítalo da Silva Ferraz 
 * **Curso:** Engenharia de Software (1º Semestre)
-* **Instituição:** [Nome da sua Faculdade/Universidade]
+* **Instituição:** Centro Universitároio de Brasília
 * **Objetivo:** Desenvolver uma base sólida em versionamento, colaboração e desenvolvimento web, construindo um portfólio robusto desde o início da graduação.
 
 ---
